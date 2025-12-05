@@ -1,0 +1,7 @@
+Insight:
+Distribusi total pembelian per user menunjukkan pola yang sangat skewed ke kanan, dengan mayoritas user hanya melakukan sedikit pembelian dan sebagian kecil user melakukan pembelian dalam jumlah besar. Karena data berupa count dan memiliki overdispersion, distribusi Negative Binomial adalah yang paling cocok. Apalagi dibuktikan dengan variance > mean, cocok dengan distribusi Negative Binomial.
+
+Recommendation:
+Mayoritas user hanya melakukan sedikit pembelian, sehingga perusahaan perlu memperkuat strategi retensi seperti memberikan promo untuk pembelian kedua, mengirim pengingat setelah order pertama, atau menawarkan free delivery untuk mendorong repeat order. 
+
+Di sisi lain, terdapat kelompok kecil user dengan pembelian tinggi yang menjadi penyumbang pendapatan terbesar; mereka perlu dijaga melalui program loyalitas, diskon eksklusif, dan akses awal ke menu baru. Dengan pola pembelian yang sangat bervariasi, perusahaan dapat melakukan segmentasi user menjadi low-value, medium, dan high-value untuk menyesuaikan pendekatan pemasaran dan retensi. Fokus utama sebaiknya diarahkan pada peningkatan repeat order user baru serta mempertahankan heavy users yang memberikan kontribusi terbesar terhadap revenue.

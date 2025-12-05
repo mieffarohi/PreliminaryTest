@@ -1,0 +1,5 @@
+Tools:
+- Python 3.13.7
+- Jupyter Notebook 7.4.7, access via Anaconda
+- Pandas version: 2.2.2
+- Matplotlib version: 3.9.2
